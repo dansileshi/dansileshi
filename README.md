@@ -5,7 +5,7 @@
 
 ---
 
-I have technical experience and interest in:
+I have technical/research experience and interest in:
 - Deep Learning
 - Machine Learning
 - Computer Vision
