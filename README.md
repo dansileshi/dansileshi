@@ -1,7 +1,6 @@
 # Hi there! Nice to see you 👋
 
-## I'm Daniel 😀
-### Data Scientist
+## I'm Daniel 😀 # Data Scientist
 
 ---
 
@@ -10,8 +9,6 @@ I have technical/research experience and interest in:
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
-
-
 
 ---
 
