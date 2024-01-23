@@ -1,11 +1,6 @@
 # Hi there 👋
 
-## I'm Daniel 😀 
-### Data Scientist 
-
----
-
-I have technical/research experience and interest in:
+ I'm Daniel 😀, Data Scientist, with technical/research experience and interest in:
 - Deep Learning
 - Machine Learning
 - Computer Vision
