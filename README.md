@@ -1,6 +1,7 @@
 # Hi there! Nice to see you 👋
 
-## I'm Daniel 😀 # Data Scientist
+## I'm Daniel 😀 
+### Data Scientist 
 
 ---
 
