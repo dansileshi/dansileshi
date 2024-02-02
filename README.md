@@ -51,11 +51,6 @@
 - **For Learning:** These repositories are like learning libraries for data science and machine learning.
 - **For Reference:** You can use the code and methods in these repositories as references for your own projects and research.
 
-### Contact
-
-For any questions or suggestions regarding these repositories, feel free to reach out via [GitHub Issues](#) or [LinkedIn](#).
-
-
 ---
 
 *Feel free to reach out if you have any questions or just want to connect! 😊*
