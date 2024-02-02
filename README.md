@@ -27,11 +27,33 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+# Featured Repositories
 
-### My Hobbies and Interests:
-- Traveling
-- Football
-- Coding
+## Main Projects
+
+| Repo              | Description                                                                                           | Link |
+|-------------------|-------------------------------------------------------------------------------------------------------|------|
+| **Python Projects** | Python Portfolio mostly in Jupyter Notebooks by ML/DL framework (i.e., Pytorch, Tensorflow, Fast.ai, etc.) | [Link](https://github.com/dansileshi/Miscellaneous-Projects) |
+
+## Data Science (Tools & Knowledge)
+
+| Repo                             | Description                                                                                                                    | Link |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------|
+| **AWS SageMaker in Production**  | End-to-End curated examples that show how to solve business problems using Amazon SageMaker and its ML/DL algorithms. Mostly in Jupyter Notebook for easy accessibility | [Link](#) |
+| **PySpark**                      | PySpark functions and utilities with Real-world Data examples. Can be used to build complete ETL process of data modeling      | [Link](https://github.com/dansileshi/PySpark_ML) |
+| **Recommendation System**        | Production-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py'         | [Link](#) |
+| **Natural Language Processing (NLP) Examples** | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a personal level of complexity | [Link](https://github.com/dansileshi/Text_analysis) |
+| **Time series data anlaysis Examples** | Full implementation examples of multiple time series data or signal anlaysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
+
+
+### How to Use These Repositories
+
+- **For Learning:** These repositories are like learning libraries for data science and machine learning.
+- **For Reference:** You can use the code and methods in these repositories as references for your own projects and research.
+
+### Contact
+
+For any questions or suggestions regarding these repositories, feel free to reach out via [GitHub Issues](#) or [LinkedIn](#).
 
 
 ---
