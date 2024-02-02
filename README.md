@@ -33,15 +33,15 @@
 
 | Repo              | Description                                                                                           | Link |
 |-------------------|-------------------------------------------------------------------------------------------------------|------|
-| **Python Projects** | Python Portfolio mostly in Jupyter Notebooks by ML/DL framework (i.e., Pytorch, Tensorflow, Fast.ai, etc.) | [Link](https://github.com/dansileshi/Miscellaneous-Projects) |
+| **Python Projects** | Python Portfolio mostly in Jupyter Notebooks by ML/DL framework (mainly using Tensorflow) | [Link](https://github.com/dansileshi/Miscellaneous-Projects) |
 
 ## Data Science (Tools & Knowledge)
 
 | Repo                             | Description                                                                                                                    | Link |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------|
 | **AWS SageMaker in Production**  | End-to-End curated examples that show how to solve business problems using Amazon SageMaker and its ML/DL algorithms. Mostly in Jupyter Notebook for easy accessibility | [Link](#) |
-| **PySpark**                      | PySpark functions and utilities with Real-world Data examples. Can be used to build complete ETL process of data modeling      | [Link](https://github.com/dansileshi/PySpark_ML) |
-| **Recommendation System**        | Production-level Implementations of Recommender System in Pytorch. Clone repo and start training by running 'main.py'         | [Link](#) |
+| **PySpark**                      | PySpark functions and utilities with Real-world Data examples.      | [Link](https://github.com/dansileshi/PySpark_ML) |
+| **Recommendation System**        | Production-level Implementations of Recommender systems ( will update soon)       | [Link](#) |
 | **Natural Language Processing (NLP) Examples** | Full implementation examples of several Natural Language Processing methods in Python. Ordered in a personal level of complexity | [Link](https://github.com/dansileshi/Text_analysis) |
 | **Time series data anlaysis Examples** | Full implementation examples of multiple time series data or signal anlaysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
 
