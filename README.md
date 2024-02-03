@@ -2,7 +2,7 @@
 
  I'm Daniel 😀, Data Scientist, with technical/research experience and interest in:
 - Deep Learning
-- Machine Learning
+- Time series analysis
 - Computer Vision
 - Natural Language Processing
 
