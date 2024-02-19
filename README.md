@@ -41,7 +41,7 @@
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------|
 | **AWS SageMaker in Production**  | End-to-End curated examples that show how to solve business problems using Amazon SageMaker and its ML/DL algorithms. Mostly in Jupyter Notebook for easy accessibility | [Link](#) |
 | **PySpark**                      | PySpark functions and utilities with Real-world Data examples.      | [Link](https://github.com/dansileshi/PySpark_ML) |
-| **Recommendation System**        | Production-level Implementations of Recommender systems ( will update soon)       | [Link](#) |
+| **Recommendation System**        | Production-level Implementations of Recommender systems ( will update soon)       | [Link](https://github.com/dansileshi/Recommender-Systems) |
 | **Natural Language Processing (NLP) Examples** | Full implementation examples of several Natural Language Processing methods in Python. | [Link](https://github.com/dansileshi/Text_analysis) |
 | **Time series data anlaysis Examples** | Full implementation examples of multiple time series data or signal analysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
 
