@@ -29,11 +29,6 @@
 ---
 # Featured Repositories
 
-## Main Projects
-
-| Repo              | Description                                                                                           | Link |
-|-------------------|-------------------------------------------------------------------------------------------------------|------|
-| **Python Projects** | Python Portfolio mostly in Jupyter Notebooks by ML/DL framework (mainly using Tensorflow) | [Link](https://github.com/dansileshi/Miscellaneous-Projects) |
 
 ## Data Science (Tools & Knowledge)
 
@@ -45,6 +40,13 @@
 | **Natural Language Processing (NLP) Examples** | Full implementation examples of several Natural Language Processing methods in Python. | [Link](https://github.com/dansileshi/Text_analysis) |
 | **Time series data anlaysis Examples** | Full implementation examples of multiple time series data or signal analysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
 | **PySpark**                      | PySpark functions and utilities with Real-world Data examples.      | [Link](https://github.com/dansileshi/PySpark_ML) |
+
+
+## Other 
+
+| Repo              | Description                                                                                           | Link |
+|-------------------|-------------------------------------------------------------------------------------------------------|------|
+| **Python Projects** | Python Portfolio mostly in Jupyter Notebooks by ML/DL framework (mainly using Tensorflow) | [Link](https://github.com/dansileshi/Miscellaneous-Projects) |
 
 
 ### How to Use These Repositories
