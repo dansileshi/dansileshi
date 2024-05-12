@@ -40,10 +40,11 @@
 | Repo                             | Description                                                                                                                    | Link |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------|
 | **LLMS**  | Examples that show how to apply LLMs for different use cases. Mostly in Jupyter Notebook for easy accessibility | [Link](https://github.com/dansileshi/LLMS) |
-| **PySpark**                      | PySpark functions and utilities with Real-world Data examples.      | [Link](https://github.com/dansileshi/PySpark_ML) |
+| **MLOps** | This repository contains MLOps implementations with Microsoft Azure, providing detailed examples of Azure DevOps and Azure Machine Learning in action. | [Link] (https://github.com/dansileshi/MLOps) |
 | **Recommendation System**        | Production-level Implementations of Recommender systems       | [Link](https://github.com/dansileshi/Recommender-Systems) |
 | **Natural Language Processing (NLP) Examples** | Full implementation examples of several Natural Language Processing methods in Python. | [Link](https://github.com/dansileshi/Text_analysis) |
 | **Time series data anlaysis Examples** | Full implementation examples of multiple time series data or signal analysis  | [Link](https://github.com/dansileshi/Eye-Movement-kde-analysis) |
+| **PySpark**                      | PySpark functions and utilities with Real-world Data examples.      | [Link](https://github.com/dansileshi/PySpark_ML) |
 
 
 ### How to Use These Repositories
